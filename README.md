@@ -5,6 +5,6 @@ The goal is to train yourself to stop touching your face!
 
 ## Required materials:
 - Shock collar
-- Flipper Zero (to send emulate radio signal)
+- Flipper Zero (to emulate radio signals)
 - qFlipper software
 - Webcam
